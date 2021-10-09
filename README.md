@@ -1,13 +1,17 @@
 <h1 align="center">Rock Paper Scissor</h1>
 
 <p align="center">
-<img src="IMAGE LINK" width="180" height="180">
+<img src="https://user-images.githubusercontent.com/63164037/136662337-74f886cc-8bce-4798-9308-e5dacbcc52c7.png" width="1270">
 </p>
 
 ## 📜 Description:
-Rock paper scissors is a hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors"
+Rock paper scissors is a hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".
 
+This is one person game in which we test user luck using user move and computer move. Most lucky person in a set of 20 wins.
+ 
 Designed with ease of use and for playing the stone paper scissors game in efficient way. Most time is devoted to designing and hadling javascript operations.
+
+This was made when i was learning web development in my initial stages.
 
 
 ## 🌎 Deployed Website:
